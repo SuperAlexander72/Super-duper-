@@ -1,0 +1,328 @@
+body {
+	/*font-family: 'Lobster', cursive;*/
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #000;
+}
+
+
+p {
+	font-family: 'Lobster', cursive;
+	color: #000;
+}
+
+ul,li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+/*hr {
+	margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    background-color: white;
+}*/
+
+.logo {
+	width: 50px;
+	height: 50px;
+}
+
+.header {
+	background-image: url(img/header.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 10px;
+	text-align: center;
+	height: 721px;
+}
+
+.about_agency {
+	background-color: #f8f8f8;
+}
+.agency_main {
+	margin-top: 40px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+/*.abilities {
+	margin-top: 100px;
+}*/
+.designer {
+	margin-top: 100px;
+	background-color: #f8f8f8;
+}
+
+.container {
+	margin: 0;
+}
+
+.next_block {
+	border: 2px solid white margin 2px;
+	background: #ffffff40;
+	margin-top: 200px;
+	border-radius: 100%;
+
+}
+.arrow {
+	width: 35px;
+	height: 35px;
+}
+
+.offer_title {
+	margin-top: 220px;
+	color: #fff;
+}
+.offer_text {
+	color: #fff;
+}
+.offer_button {
+	background: transparent;
+	width: 200px;
+	margin: 0;	
+}
+.offer_button p {
+	color: #fff;
+	margin: 5px;	
+}
+
+.menu {
+	margin-top: 8px;
+}
+.menu_item {
+	margin: 0 57px;
+}
+
+.menu_item a {
+	font-size: 22px;
+	font-weight: 700;
+	color: #000;
+}
+
+.title_main {
+	text-align: center;
+	margin-top: 100px;
+}
+.title_hr {
+	height: 3px;
+	width: 40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #009973;
+
+}
+.title_text {
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+.stamp {
+	width: 150px;
+	height: 150px;
+	display: block;
+    margin: 0 auto;
+
+}
+
+.small_hr {
+	height: 1px;
+	width: 50px;
+	background-color: #009973; 
+}
+
+.abilities_img {
+	display: block;
+    margin: 0 auto;
+	width: 30px;
+	height: 30px;
+	background: #60c591;
+/*	border: 3px solid #60c591;
+	border-radius: 100%;*/
+}
+
+.abilities_main {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.coffe {
+	height: 100%;
+	width: 530px;
+	/*margin-top: 100px;*/
+}
+
+.coffe_text {
+	/*margin-top: 150px;*/
+	text-align: center;
+	width: 370px;
+	line-height: 3rem;
+}
+
+.office_main {
+	text-align: center;
+	margin-top: 30px;
+	/*color: #fff;*/
+}
+.office_text {
+	text-align: center; 	
+	/*color: #fff;*/
+	width: 100%;
+}
+
+.quote {
+	display: block;
+    margin: 0 auto;
+    width: 1110px;
+    height: 500px;
+	background-image: url(img/office.png);
+	background-repeat: no-repeat;
+}
+
+.hooks {
+	display: block;
+    margin: 0 auto;
+	width: 30px;
+	height: 30px;
+	margin-top: 100px;
+}
+
+.pen {
+	display: block;
+    margin: 0 auto;
+	height: 30px;
+	width: 30px;
+	margin-top: 20px;
+}
+
+.work_main {
+	text-align: center;
+	margin: 0;
+	margin-top: 100px;
+}
+
+.work {
+	display: block;
+    margin: 0 auto;
+	width: 335px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.small_main {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.video {
+	width: 100%;
+	height: 500px;
+}
+
+.team_main {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.team {
+	display: block;
+    margin: 0 auto;
+}
+
+
+.facebook {
+	width: 30px;
+	height: 30px;
+	margin-bottom: 100px;
+}
+.twitter {
+	width: 30px;
+	height: 30px;
+	margin-bottom: 100px;
+}
+.address {
+	width: 30px;
+	height: 30px;
+	margin-bottom: 100px;
+}
+
+.footer {
+	background-color: #000;
+	/*background-image: url(img/.jpg);*/
+}
+
+.form_input {
+	background: transparent;
+	width: 400px;
+	height: 45px;
+}
+
+.form {
+	margin: 0 auto 100px;
+}
+
+.button {
+	color: #fff;
+	width: 300px;
+	height: 45px;
+}
+
+.footer_main {
+	text-align: center;
+	color: #fff;
+	margin-top: 100px;
+	margin: 100px auto 50px;
+}
+
+.footer_text {
+	margin: 0;
+	color: #000;
+}
+
+.communication .col-lg-4 {
+	background-color: #f8f8f8;
+	border: 15px solid #fff;
+}
+
+.planet {
+	display: block;
+    margin: 0 auto;
+	width: 30px;
+	height: 30px;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+.phone {
+	display: block;
+    margin: 0 auto;
+	width: 30px;
+	height: 30px;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+.telegram {
+	display: block;
+    margin: 0 auto;
+	width: 30px;
+	height: 30px;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+
+.parting {
+	text-align: center;
+	margin: 50px 50px;
+	color: #fff;
+
+}
+.end {
+	background-color: #000;
+}
+.heart {
+	width: 25px;
+	height: 25px;
+}
